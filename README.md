@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annika-simo
 - 👀 I’m a software development intern
 - 🌱 I’m currently learning python and C++
-- 🎓 I'm a first year compiuter science major
+- 🎓 I'm a second year computer science major
 - 💞️ I’m looking to collaborate on anything!
 - 📫 My discord is @harmannika#4082 and my email is annikasimovart@gmail.com
